@@ -1,0 +1,25 @@
+* {
+    font-family: monospace;
+}
+
+.scrum-board__header{
+    text-align: center;
+}
+
+.grid-container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    border: 1px dashed #1e96ff;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.grid-item{
+    display: grid;
+    background-color: aquamarine;
+    border: 1px solid black;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}

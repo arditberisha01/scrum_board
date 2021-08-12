@@ -1,0 +1,11 @@
+{
+  "name": "scrum-board",
+  "version": "1.0.0",
+  "description": "basic scrumboard experimenting",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a.b/t.b",
+  "license": "ISC"
+}
